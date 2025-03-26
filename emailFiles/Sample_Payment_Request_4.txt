@@ -1,0 +1,46 @@
+Subject: Payment Request - Reference JD-REF123
+
+**CITIBANK**  
+Citibank, N.A.  
+
+**To:**  
+CHASE BANK NATIONAL ASSOCIATION  
+
+**Date:** 01-Mar-2025  
+**ATTN:** AGENT DEFAULT  
+**Phone:** 123-456-7890  
+**Fax:** 800-555-1234  
+**Email:** agent@citibank.com  
+
+**Re:** JOHN DOE USD 500,000,000 / REVOLVER / JD-REF123  
+
+**Deal CUSIP:** 123456789  
+**Deal ISIN:** US1234567890  
+**Facility CUSIP:** 987654321  
+**Facility ISIN:** US0987654321  
+**Lender MEI:** LND12345  
+
+Effective 10-Mar-2025, JOHN DOE has elected to repay under the SOFR (US) Term option, a total of USD 250,000,000.
+
+Previous Global principal balance: USD 750,000,000  
+New Global principal balance: USD 500,000,000  
+
+This loan was effective 15-Jan-2025 and is scheduled to reprice on 20-Mar-2025.
+
+Your share of the USD 250,000,000 SOFR (US) Term option payment is USD 12,345,678.90.  
+Previous Lender Share Principal Balance: USD 25,678,900.50  
+New Lender Share Principal Balance: USD 13,333,221.60  
+
+We will remit USD 12,345,678.90 on the effective date. Please note that (i) if the Borrower has not in fact made such payment; or (ii) any payment you receive is in excess of what was paid by the Borrower or (iii) we notify you that the payment was erroneously made, then pursuant to the provisions of the credit facility, you agree to return such payment.  
+
+**For:** CHASE BANK NATIONAL ASSOCIATION  
+**To:** CHASE BANK, NA  
+
+**ABA Number:** 11223344  
+**Account No:** 5678901234  
+**Reference:** JOHN DOE USD 500,000,000, SOFR (US) Term Principal Payment (JD-REF123)  
+
+**Thanks & Regards,**  
+**JANE SMITH**  
+Telephone #: +1 555-987-6543  
+Email id: jane.smith@citibank.com  
